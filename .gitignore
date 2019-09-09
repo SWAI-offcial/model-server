@@ -1,0 +1,114 @@
+__pycache__
+*/__pycache__
+.ipynb_checkpoints
+*.h5
+*.hdf5
+*.json
+*.pb
+*.pbtxt
+*.yml
+*.ckpt
+*.local
+*.out
+.idea
+me.md
+text.png
+me.py
+*.pth
+*/out
+*/output
+*.pkl
+
+data/
+logs_base/
+tensorboard/
+zh-en.*
+
+*.ckpt-9091.data-00000-of-00001
+*.index
+*.meta
+
+/static/results
+
+/EAST/east_icdar2015_resnet_v1_50_rbox/
+/EAST/east_icdar2015_resnet_v2_50_rbox/
+/EAST/east-icdar2015/
+
+/EAST/img/
+
+/server
+/analyze
+/CRNN/data_generator/TextRecognitionDataGenerator/out/*.jpg
+/CRNN/data_generator_o/data_set/*.png
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+report.txt
+report1.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+
+# vim swapfile
+*.swp
+
+/translate/log
+
